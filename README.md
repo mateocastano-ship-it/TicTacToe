@@ -1,4 +1,4 @@
-# TicTacToe - Juego del Gato
+# TicTacToe
 
 Este es un proyecto realizado en Java con NetBeans, que implementa el clásico juego del TicTacToe (Triki).  
 El objetivo del proyecto es practicar conceptos de **Programación Orientada a Objetos (POO)**, organización en paquetes y desarrollo de aplicaciones con interfaz web/consola.
