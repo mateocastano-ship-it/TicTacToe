@@ -8,7 +8,6 @@ El objetivo es desarrollar y desplegar una aplicación web en Java EE utilizando
 ## Características
 - Juego TicTacToe para dos jugadores.
 - Implementado en Java.
-- Uso de clases, métodos y validaciones.
 - Código estructurado.
 
 
