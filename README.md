@@ -15,7 +15,7 @@ El objetivo es desarrollar y desplegar una aplicación web en Java EE utilizando
 
 ##  Ejemplo de ejecución
 
-![Ejemplo del juego](img/ejemplo_juego.png)
+![Ejemplo del juego](web/img/ejemplo_juego.png)
 
 
 
