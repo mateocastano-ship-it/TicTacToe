@@ -9,8 +9,8 @@
 <body>
 <h1>Tic Tac Toe</h1>
 <form action="entryServlet" method="post">
-<input type="submit" name="User" value="Empezar"><br/>
-<input type="submit" name="Computer" value="La computadora inicia">
+<input type="submit" name="User" value="EMPEZAR"><br/>
+<input type="submit" name="Computer" value="LA COMPUTADORA INICIA">
 </form>
 </body>
 </html>
