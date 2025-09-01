@@ -7,7 +7,7 @@
 <title>Tic Tac Toe</title>
 </head>
 <body>
-<h1>Tic Tac Toe</h1>
+<h1>triki2 2025</h1>
 <form action="entryServlet" method="post">
 <input type="submit" name="User" value="EMPEZAR"><br/>
 <input type="submit" name="Computer" value="LA COMPUTADORA INICIA">
