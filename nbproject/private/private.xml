@@ -2,6 +2,14 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group/>
+        <group>
+            <file>file:/C:/Users/MATEO/Documents/NetBeansProjects/TicTacToe/src/java/game/GameServlet.java</file>
+            <file>file:/C:/Users/MATEO/Documents/NetBeansProjects/TicTacToe/src/java/game/GameBean.java</file>
+            <file>file:/C:/Users/MATEO/Documents/NetBeansProjects/TicTacToe/nbproject/build-impl.xml</file>
+            <file>file:/C:/Users/MATEO/Documents/NetBeansProjects/TicTacToe/web/index.jsp</file>
+            <file>file:/C:/Users/MATEO/Documents/NetBeansProjects/TicTacToe/src/java/game/Cell.java</file>
+            <file>file:/C:/Users/MATEO/Documents/NetBeansProjects/TicTacToe/src/java/game/EntryServlet.java</file>
+            <file>file:/C:/Users/MATEO/Documents/NetBeansProjects/TicTacToe/web/game.jsp</file>
+        </group>
     </open-files>
 </project-private>
